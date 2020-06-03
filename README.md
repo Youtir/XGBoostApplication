@@ -5,3 +5,5 @@ The repository contains two Notebooks for housing data and kidney disease predic
 
 The code is realised as part of the datacamp course named Extreme Gradient Boosting with XGBoost.
 
+NB : a ValueError may raise when executing the cross-validation on the kidney disease pipeline, i'm not sure about the cause of the error, any help is more than welcomed.
+
